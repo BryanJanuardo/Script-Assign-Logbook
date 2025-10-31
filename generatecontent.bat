@@ -1,5 +1,5 @@
 @echo off
 
 cd /d "%~dp0"
-node GenerateConfig.js
+node GenerateContent.js
 pause
